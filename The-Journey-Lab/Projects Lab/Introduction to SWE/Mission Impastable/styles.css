@@ -1,0 +1,39 @@
+h1 {
+    color: #000000;
+    text-align: center;
+}
+section {
+    align-items: center;
+    background-color: #ffffff;
+}
+section img {
+    align-self: center
+}
+section p {
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+}
+section a {
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+}
+section[id="about"] {
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+    background-color: #f2f2f2;
+}
+section[id="menu"] {
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+    background-color: #ffffff;
+}
+section[id="contact"] {
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+    background-color: #f2f2f2;
+}
